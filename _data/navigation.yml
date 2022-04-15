@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+  new_window: false
+  highlight: false
+- name: Contact Us
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Chapter Site
+  link: https://www.bshswebmaster.ga
+  new_window: true
+  highlight: false
+- name: Documentation Site
+  link: https://documentation.bshswebmaster.ga
+  new_window: true
+  highlight: false
